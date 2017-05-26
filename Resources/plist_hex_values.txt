@@ -1,0 +1,14 @@
+[0x1004] - Path Components
+[0x1005] - File IDs
+[0x1010] - Resource Props
+[0x1040] - Creation Date
+[0x2000] - Vol Info Depths
+[0x2002] - Vol Path
+[0x2005] - Vol URL
+[0x2010] - Vol Name
+[0x2011] - Vol UUID
+[0x2012] - Vol Capacity
+[0x2013] - Vol Creation Date
+[0x2020] - Vol Props
+[0x2040] - Disk Image Depth
+[0xf080] - Sandbox RW Extension
